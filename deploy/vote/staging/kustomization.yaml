@@ -28,6 +28,6 @@ commonAnnotations:
 configMapGenerator:
   - name: vote
     literals:
-      - OPTION_A=FluxCD
-      - OPTION_B=ArgoCD
+      - OPTION_A=Shure
+      - OPTION_B=Electrovoice
 
