@@ -9,7 +9,7 @@ namespace: instavote
 images:
 - name: schoolofdevops/vote
   newName: initcron/vote
-  newTag: main-1c01cd25-1684430239 # {"$imagepolicy": "flux-system:vote:tag"}
+  newTag: main-66d54255-1684475259 # {"$imagepolicy": "flux-system:vote:tag"}
 replicas:
 - name: vote
   count: 1
